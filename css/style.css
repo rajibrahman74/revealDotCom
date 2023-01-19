@@ -1,0 +1,14 @@
+.bannar-img-1 {
+  background-image: url("/image/carousel/1.jpg");
+  height: 100vh;
+}
+
+.bannar-img-2 {
+  background-image: url("/image/carousel/2.jpg");
+  height: 100vh;
+}
+
+.bannar-img-3 {
+  background-image: url("/image/carousel/3.jpg");
+  height: 100vh;
+}
